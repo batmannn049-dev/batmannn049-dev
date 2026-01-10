@@ -19,6 +19,7 @@ Eager to learn industry best practices and write clean, readable code
 🗨️ Communication Languages
 
 English: Intermediate
+
 Hindi: Native
 
 <!--
