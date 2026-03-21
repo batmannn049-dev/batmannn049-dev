@@ -188,6 +188,14 @@ This internship focused on understanding the fundamentals of **Generative AI and
 </details>
 </div>
 
+<div>
+  <details>
+    <summary>
+      📄 Resume
+    </summary>
+     [Click here to view my resume](https://drive.google.com/file/d/1E0ZGOqk8PFFST1ccHQRjXZ9N4k3aOM-l/view?usp=sharing)
+  </details>
+</div>
 ## 🗨️ Communication Languages
 
 - English: Intermediate
