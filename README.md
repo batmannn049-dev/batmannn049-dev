@@ -1,5 +1,10 @@
 I'm a Computer Science student and aspiring Software Developer with a strong interest in building practical and user-focused applications.
 I enjoy learning new technologies and strengthening my problem-solving skills through hands-on projects. Currently, I am focused on improving my programming fundamentals and exploring web development and data structures.
+
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=batmannn049-dev" alt="GitHub Insights" />
+</div>
+
 <div>
 <details>
 <summary> 👨‍💻 Technical Skills </summary>
